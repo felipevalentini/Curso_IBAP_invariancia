@@ -1,5 +1,6 @@
-#configurar o diretório de trabalho
-setwd("C:/Users/X-Casa/OneDrive/congressos_cursos/IBAP/IBAP_jornada2020")
+#configurar o diretório de trabalho - você vai precisa alterar esta linha
+#para o caminho da pasta que você quer trabalhar no seu computador
+setwd("~/IBAP_jornada2020")
 
 #carregar os pacotes que serão utilizados na análise
 library(lavaan)
